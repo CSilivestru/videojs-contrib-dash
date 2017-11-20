@@ -54,7 +54,7 @@
     "test/"
   ],
   "dependencies": {
-    "dashjs": "^2.2.0",
+    "dashjs": "git://github.com/Dash-Industry-Forum/dash.js#62bb6893be328a0e7745979803cb20459dad1b1c",
     "global": "^4.3.0",
     "video.js": "^5.18.0 || ^6.2.8"
   },
