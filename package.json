@@ -6,7 +6,7 @@
     "type": "git",
     "url": "https://github.com/videojs/videojs-contrib-dash.git"
   },
-  "version": "2.9.2",
+  "version": "2.9.2-vy2",
   "author": "Brightcove, Inc",
   "license": "Apache-2.0",
   "scripts": {
@@ -54,7 +54,7 @@
     "test/"
   ],
   "dependencies": {
-    "dashjs": "git://github.com/Dash-Industry-Forum/dash.js#62bb6893be328a0e7745979803cb20459dad1b1c",
+    "dashjs": "2.6.4-vy",
     "global": "^4.3.0",
     "video.js": "^5.18.0 || ^6.2.8"
   },
